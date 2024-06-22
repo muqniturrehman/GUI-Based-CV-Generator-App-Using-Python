@@ -46,12 +46,6 @@ The CV Generator allows users to enter their contact information, education deta
 - ReportLab: For generating PDF documents.
 
 
-## Acknowledgments
-
-- This application was created as a project for learning GUI development with Tkinter and PDF generation with ReportLab.
-- Inspiration and guidance from various online resources and documentation.
-
-
 ## Screenshots
 
 
